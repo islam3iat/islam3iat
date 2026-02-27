@@ -44,7 +44,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.36% as on ⏰ 26-Feb-2026
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.63% as on ⏰ 27-Feb-2026
 
 ---
 
@@ -54,7 +54,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
