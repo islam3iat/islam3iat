@@ -44,7 +44,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.03% as on ⏰ 26-Mar-2026
+⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.30% as on ⏰ 27-Mar-2026
 
 ---
 
@@ -54,7 +54,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
