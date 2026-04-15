@@ -44,7 +44,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.03% as on ⏰ 17-Feb-2026
+⏳ **Year Progress:** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.51% as on ⏰ 15-Apr-2026
 
 ---
 
@@ -54,7 +54,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Web Arx security says more than 20,000 websites are hacked each day and most from the US</i>
+• <i>The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
