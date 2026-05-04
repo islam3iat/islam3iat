@@ -1,5 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
+
 <p align="center">
   <a href="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
@@ -29,6 +30,7 @@
 - ♟ I unwind with chess and strategy games when I’m not coding.
 - 🧑‍💻 Tech I work on :
 
+
 <p align="center">
       <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=java,spring,nodejs,git,kubernetes,elasticsearch,azure,aws,docker,mysql,mongodb" />
@@ -43,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.45% as on ⏰ 3-May-2026
+⏳ **Year Progress:** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.81% as on ⏰ 4-May-2026
 
 ---
 
@@ -53,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
