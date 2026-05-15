@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.46% as on ⏰ 14-May-2026
+⏳ **Year Progress:** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.74% as on ⏰ 15-May-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.</i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
