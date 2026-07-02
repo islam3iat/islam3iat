@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.62% as on ⏰ 1-Jul-2026
+⏳ **Year Progress:** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.89% as on ⏰ 2-Jul-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
