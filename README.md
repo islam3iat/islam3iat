@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.34% as on ⏰ 11-Sep-2026
+⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.61% as on ⏰ 12-Sep-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.</i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
