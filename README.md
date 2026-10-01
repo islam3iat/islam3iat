@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.56% as on ⏰ 30-Sep-2026
+⏳ **Year Progress:** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.83% as on ⏰ 1-Oct-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
