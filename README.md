@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.93% as on ⏰ 5-Oct-2026
+⏳ **Year Progress:** { ██████████████████████▁▁▁▁▁▁▁▁ } 76.21% as on ⏰ 6-Oct-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
