@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███████████████████████▁▁▁▁▁▁▁ } 78.93% as on ⏰ 16-Oct-2026
+⏳ **Year Progress:** { ███████████████████████▁▁▁▁▁▁▁ } 79.20% as on ⏰ 17-Oct-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.</i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
