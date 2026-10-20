@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███████████████████████▁▁▁▁▁▁▁ } 79.75% as on ⏰ 19-Oct-2026
+⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 80.03% as on ⏰ 20-Oct-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
