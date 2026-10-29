@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 82.23% as on ⏰ 28-Oct-2026
+⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 82.51% as on ⏰ 29-Oct-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.</i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
