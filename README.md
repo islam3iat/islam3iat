@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
+• <i>The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
