@@ -45,7 +45,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████████████████████████▁▁▁▁▁ } 86.62% as on ⏰ 13-Nov-2026
+⏳ **Year Progress:** { ██████████████████████████▁▁▁▁ } 86.90% as on ⏰ 14-Nov-2026
 
 ---
 
@@ -55,7 +55,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   </i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
